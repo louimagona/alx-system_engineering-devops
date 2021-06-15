@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -d1 */ | wc -l
